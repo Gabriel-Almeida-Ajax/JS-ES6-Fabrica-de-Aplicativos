@@ -3,7 +3,7 @@ This repository is for storing the projects developed during the course.
 - Introduction to ES6; ✅
 - Difference between var, let and const; ✅
 - Use of variable in strings; ✅
-- Desconstructing objects and arrays;
+- Desconstructing objects and arrays; ✅
 - Operator spread;
 - Rest Operator;
 - Operations in arrays;
