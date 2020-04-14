@@ -5,7 +5,7 @@ This repository is for storing the projects developed during the course.
 - Use of variable in strings; ✅
 - Desconstructing objects and arrays; ✅
 - Spread operator; ✅
-- Rest Operator;
+- Rest Operator; ✅
 - Operations in arrays;
 - Anonymous Function;
 - Class;
