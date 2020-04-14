@@ -6,7 +6,7 @@ This repository is for storing the projects developed during the course.
 - Desconstructing objects and arrays; ✅
 - Spread operator; ✅
 - Rest Operator; ✅
-- Operations in arrays;
+- Operations in arrays; ✅
 - Anonymous Function;
 - Class;
 - Class pratice;
