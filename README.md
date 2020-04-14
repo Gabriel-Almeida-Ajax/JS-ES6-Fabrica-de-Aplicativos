@@ -4,7 +4,7 @@ This repository is for storing the projects developed during the course.
 - Difference between var, let and const; ✅
 - Use of variable in strings; ✅
 - Desconstructing objects and arrays; ✅
-- Operator spread;
+- Spread operator; ✅
 - Rest Operator;
 - Operations in arrays;
 - Anonymous Function;
