@@ -11,7 +11,7 @@ class List{
 
 }
 
-class toDoList extends List{
+class ToDoList extends List{
     constructor(){
         super();
 
