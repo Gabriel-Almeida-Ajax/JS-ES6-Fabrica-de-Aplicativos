@@ -10,4 +10,4 @@ This repository is for storing the projects developed during the course.
 - Anonymous Function; ✅
 - Class; ✅
 - Class pratice; ✅
-- Challenge JS;
+- Challenge JS; ✅
