@@ -7,7 +7,7 @@ This repository is for storing the projects developed during the course.
 - Spread operator; ✅
 - Rest Operator; ✅
 - Operations in arrays; ✅
-- Anonymous Function;
+- Anonymous Function; ✅
 - Class;
 - Class pratice;
 - Challenge JS;
