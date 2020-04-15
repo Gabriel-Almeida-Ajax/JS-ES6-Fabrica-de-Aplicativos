@@ -9,5 +9,5 @@ This repository is for storing the projects developed during the course.
 - Operations in arrays; ✅
 - Anonymous Function; ✅
 - Class; ✅
-- Class pratice;
+- Class pratice; ✅
 - Challenge JS;
