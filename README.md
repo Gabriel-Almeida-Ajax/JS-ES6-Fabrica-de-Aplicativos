@@ -8,6 +8,6 @@ This repository is for storing the projects developed during the course.
 - Rest Operator; ✅
 - Operations in arrays; ✅
 - Anonymous Function; ✅
-- Class;
+- Class; ✅
 - Class pratice;
 - Challenge JS;
